@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Custom Data Science Additions
+*.csv
+*.xlsx
+*.json
