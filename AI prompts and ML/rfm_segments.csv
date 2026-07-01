@@ -1,0 +1,101 @@
+customer_id,recency,frequency,monetary,R,F,M,RFM_score,segment,name
+1,1,18,27081,5,5,5,15,Champions,Customer_1
+2,3,9,9347,4,2,2,8,Potential Loyalist,Customer_2
+3,5,13,18077,3,4,5,12,Loyal,Customer_3
+4,4,22,25717,3,5,5,13,Loyal,Customer_4
+5,9,11,14913,2,3,4,9,At Risk,Customer_5
+6,1,10,13935,5,3,4,12,Potential Loyalist,Customer_6
+7,1,13,16588,5,4,4,13,Champions,Customer_7
+8,1,13,18716,5,4,5,14,Champions,Customer_8
+9,16,11,19154,1,3,5,9,At Risk,Customer_9
+10,8,6,7303,2,1,1,4,Hibernating / Lost,Customer_10
+11,7,10,10798,2,3,2,7,At Risk,Customer_11
+12,8,11,12396,2,4,3,9,Loyal,Customer_12
+13,12,6,11477,1,1,2,4,Hibernating / Lost,Customer_13
+14,10,11,12088,1,4,2,7,Loyal,Customer_14
+15,4,7,6813,3,1,1,5,Needs Attention,Customer_15
+16,8,5,5118,2,1,1,4,Hibernating / Lost,Customer_16
+17,10,9,12571,1,2,3,6,At Risk,Customer_17
+18,1,10,18053,5,3,5,13,Potential Loyalist,Customer_18
+19,1,10,14541,5,3,4,12,Potential Loyalist,Customer_19
+20,7,5,8692,2,1,1,4,Hibernating / Lost,Customer_20
+21,2,14,12938,4,5,3,12,Champions,Customer_21
+22,12,6,5585,1,1,1,3,Hibernating / Lost,Customer_22
+23,2,7,9115,4,1,1,6,New / Recent,Customer_23
+24,2,13,12529,4,4,3,11,Champions,Customer_24
+25,7,11,19385,2,4,5,11,Loyal,Customer_25
+26,18,9,15166,1,2,4,7,At Risk,Customer_26
+27,3,8,12445,4,2,3,9,Potential Loyalist,Customer_27
+28,4,8,8895,3,2,1,6,Needs Attention,Customer_28
+29,1,14,24997,5,5,5,15,Champions,Customer_29
+30,11,8,13519,1,2,3,6,At Risk,Customer_30
+31,10,11,13524,1,4,3,8,Loyal,Customer_31
+32,2,9,13700,4,2,3,9,Potential Loyalist,Customer_32
+33,2,15,21387,4,5,5,14,Champions,Customer_33
+34,2,9,10855,4,3,2,9,Potential Loyalist,Customer_34
+35,2,9,9513,4,3,2,9,Potential Loyalist,Customer_35
+36,7,17,15064,2,5,4,11,Loyal,Customer_36
+37,4,16,13698,3,5,3,11,Loyal,Customer_37
+38,3,4,5920,4,1,1,6,New / Recent,Customer_38
+39,8,10,17183,2,3,4,9,At Risk,Customer_39
+40,1,12,20018,5,4,5,14,Champions,Customer_40
+41,5,7,13682,3,1,3,7,Needs Attention,Customer_41
+42,5,12,11765,3,4,2,9,Loyal,Customer_42
+43,3,10,11571,4,3,2,9,Potential Loyalist,Customer_43
+44,4,17,26529,3,5,5,13,Loyal,Customer_44
+45,11,8,10590,1,2,2,5,At Risk,Customer_45
+46,29,4,5054,1,1,1,3,Hibernating / Lost,Customer_46
+47,2,14,18816,4,5,5,14,Champions,Customer_47
+48,2,13,14277,5,5,4,14,Champions,Customer_48
+49,6,8,9960,3,2,2,7,Needs Attention,Customer_49
+50,6,10,15666,3,3,4,10,Needs Attention,Customer_50
+51,6,7,12182,3,2,3,8,Needs Attention,Customer_51
+52,1,16,24055,5,5,5,15,Champions,Customer_52
+53,2,8,10870,5,2,2,9,Potential Loyalist,Customer_53
+54,12,16,20718,1,5,5,11,Loyal,Customer_54
+55,1,11,21599,5,4,5,14,Champions,Customer_55
+56,9,6,8484,2,1,1,4,Hibernating / Lost,Customer_56
+57,13,12,13277,1,4,3,8,Loyal,Customer_57
+58,15,5,6190,1,1,1,3,Hibernating / Lost,Customer_58
+59,5,14,17269,3,5,4,12,Loyal,Customer_59
+60,5,4,9485,3,1,2,6,Needs Attention,Customer_60
+61,9,10,9173,2,3,2,7,At Risk,Customer_61
+62,7,14,12165,2,5,3,10,Loyal,Customer_62
+63,4,9,8520,3,3,1,7,Needs Attention,Customer_63
+64,3,9,11203,4,3,2,9,Potential Loyalist,Customer_64
+65,3,10,13744,4,3,3,10,Potential Loyalist,Customer_65
+66,4,10,12744,4,3,3,10,Potential Loyalist,Customer_66
+67,6,6,9738,3,1,2,6,Needs Attention,Customer_67
+68,9,14,16865,2,5,4,11,Loyal,Customer_68
+69,18,10,13033,1,3,3,7,At Risk,Customer_69
+70,1,13,21089,5,5,5,15,Champions,Customer_70
+71,7,11,20065,2,4,5,11,Loyal,Customer_71
+72,6,13,16921,3,5,4,12,Loyal,Customer_72
+73,5,7,11543,3,2,2,7,Needs Attention,Customer_73
+74,5,11,13928,3,4,4,11,Loyal,Customer_74
+75,11,8,12536,1,2,3,6,At Risk,Customer_75
+76,1,12,17810,5,4,4,13,Champions,Customer_76
+77,2,8,9784,5,2,2,9,Potential Loyalist,Customer_77
+78,9,7,8265,2,2,1,5,At Risk,Customer_78
+79,16,3,4263,1,1,1,3,Hibernating / Lost,Customer_79
+80,17,11,16463,1,4,4,9,Loyal,Customer_80
+81,1,10,16974,5,3,4,12,Potential Loyalist,Customer_81
+82,1,7,4569,5,2,1,8,Potential Loyalist,Customer_82
+83,17,8,9293,1,2,2,5,At Risk,Customer_83
+84,1,13,18607,5,5,5,15,Champions,Customer_84
+85,1,8,15927,5,2,4,11,Potential Loyalist,Customer_85
+86,3,15,16742,4,5,4,13,Champions,Customer_86
+87,21,7,9127,1,2,1,4,At Risk,Customer_87
+88,7,6,10054,2,1,2,5,Hibernating / Lost,Customer_88
+89,3,5,6423,4,1,1,6,New / Recent,Customer_89
+90,8,11,12273,2,4,3,9,Loyal,Customer_90
+91,4,5,5291,4,1,1,6,New / Recent,Customer_91
+92,6,17,22082,3,5,5,13,Loyal,Customer_92
+93,10,6,11629,2,1,2,5,Hibernating / Lost,Customer_93
+94,3,11,13748,4,4,4,12,Champions,Customer_94
+95,7,11,15531,2,4,4,10,Loyal,Customer_95
+96,3,9,12264,4,3,3,10,Potential Loyalist,Customer_96
+97,9,4,6088,2,1,1,4,Hibernating / Lost,Customer_97
+98,7,7,8915,3,2,1,6,Needs Attention,Customer_98
+99,1,10,13181,5,3,3,11,Potential Loyalist,Customer_99
+100,12,12,20744,1,4,5,10,Loyal,Customer_100

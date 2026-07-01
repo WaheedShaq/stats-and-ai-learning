@@ -221,3 +221,7 @@ __marimo__/
 *.csv
 *.xlsx
 *.json
+
+# ...except the "AI prompts and ML" project — tracked as portfolio work
+# so those analyses stay reproducible and reviewable by employers.
+!AI prompts and ML/*.csv

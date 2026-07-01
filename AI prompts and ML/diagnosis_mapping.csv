@@ -1,0 +1,6 @@
+Diagnosis,Numeric_Code
+Common Cold,0
+Diabetes,1
+Flu,2
+Hypertension,3
+Unknown,4
